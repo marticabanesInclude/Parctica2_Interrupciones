@@ -134,7 +134,7 @@ Això ens permet veure com el microcontrolador pot executar accions periòdiques
 
 ## Sortida esperada pel monitor sèrie
 
-![SORTIDA MONITOR SERIE](image-1.png)
+![SORTIDA MONITOR SERIE](IMATGESP2/image-1.png)
 
 ---
 
