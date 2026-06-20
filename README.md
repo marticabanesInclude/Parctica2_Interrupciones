@@ -67,7 +67,7 @@ Finalment, després d’un minut, el programa desactiva la interrupció amb `det
 
 ## Sortida esperada pel monitor sèrie
 
-![SORTIDA MONITOR SERIE](image.png)
+![SORTIDA MONITOR SERIE](IMATGE_P2/image.png)
 
 ---
 
