@@ -67,7 +67,7 @@ Finalment, després d’un minut, el programa desactiva la interrupció amb `det
 
 ## Sortida esperada pel monitor sèrie
 
-![SORTIDA MONITOR SERIE](image.png)
+![SORTIDA MONITOR SERIE](IMATGES_P2/image.png)
 
 ---
 
@@ -134,7 +134,7 @@ Això ens permet veure com el microcontrolador pot executar accions periòdiques
 
 ## Sortida esperada pel monitor sèrie
 
-![SORTIDA MONITOR SERIE](IMATGESP2/image-1.png)
+![SORTIDA MONITOR SERIE](IMATGES_P2/image-1.png)
 
 ---
 
@@ -261,8 +261,8 @@ En resum, aquest apartat serveix per veure com es poden combinar interrupcions d
 
 ## Sortida esperada pel monitor sèrie
 
-![PUJAR VEL. LED](image-2.png)
-![PUJAR VEL. LED](image-3.png)
+![PUJAR VEL. LED](IMATGES_P2/image-2.png)
+![PUJAR VEL. LED](IMATGES_P2/image-3.png)
 
 ---
 
